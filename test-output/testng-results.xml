@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="20" passed="20" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-27T11:29:09 IST" name="Suite" finished-at="2024-03-27T11:33:08 IST" duration-ms="239073">
+    <groups>
+    </groups>
+    <test started-at="2024-03-27T11:29:09 IST" name="ChromeTest" finished-at="2024-03-27T11:31:07 IST" duration-ms="118353">
+      <class name="TestCases.StudyChairTestCase">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestCases.StudyChairTestCase@1750fbeb]" started-at="2024-03-27T11:29:38 IST" name="setup" finished-at="2024-03-27T11:29:49 IST" duration-ms="11014" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="goToStudyChair()[pri:1, instance:TestCases.StudyChairTestCase@1750fbeb]" started-at="2024-03-27T11:29:49 IST" name="goToStudyChair" finished-at="2024-03-27T11:29:54 IST" duration-ms="5635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToStudyChair -->
+        <test-method signature="showStudyChair()[pri:2, instance:TestCases.StudyChairTestCase@1750fbeb]" started-at="2024-03-27T11:29:54 IST" name="showStudyChair" finished-at="2024-03-27T11:29:59 IST" duration-ms="4873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- showStudyChair -->
+        <test-method signature="printChairDetials()[pri:3, instance:TestCases.StudyChairTestCase@1750fbeb]" started-at="2024-03-27T11:29:59 IST" name="printChairDetials" finished-at="2024-03-27T11:30:00 IST" duration-ms="575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printChairDetials -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCases.StudyChairTestCase@1750fbeb]" started-at="2024-03-27T11:30:00 IST" name="close" finished-at="2024-03-27T11:30:01 IST" duration-ms="1575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCases.StudyChairTestCase -->
+      <class name="TestCases.Test_GiftCard">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestCases.Test_GiftCard@5b247367]" started-at="2024-03-27T11:30:01 IST" name="setup" finished-at="2024-03-27T11:30:14 IST" duration-ms="12786" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="goToGiftCard()[pri:1, instance:TestCases.Test_GiftCard@5b247367]" started-at="2024-03-27T11:30:14 IST" name="goToGiftCard" finished-at="2024-03-27T11:30:58 IST" duration-ms="43831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToGiftCard -->
+        <test-method signature="getgiftCard()[pri:2, instance:TestCases.Test_GiftCard@5b247367]" started-at="2024-03-27T11:30:58 IST" name="getgiftCard" finished-at="2024-03-27T11:30:59 IST" duration-ms="1241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getgiftCard -->
+        <test-method signature="allDetailsGiftCard()[pri:3, instance:TestCases.Test_GiftCard@5b247367]" started-at="2024-03-27T11:30:59 IST" name="allDetailsGiftCard" finished-at="2024-03-27T11:31:06 IST" duration-ms="6912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allDetailsGiftCard -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCases.Test_GiftCard@5b247367]" started-at="2024-03-27T11:31:06 IST" name="close" finished-at="2024-03-27T11:31:07 IST" duration-ms="1226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCases.Test_GiftCard -->
+      <class name="TestCases.Test_Bookshelves">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestCases.Test_Bookshelves@6fa51cd4]" started-at="2024-03-27T11:29:10 IST" name="setup" finished-at="2024-03-27T11:29:23 IST" duration-ms="13035" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test1()[pri:1, instance:TestCases.Test_Bookshelves@6fa51cd4]" started-at="2024-03-27T11:29:24 IST" name="test1" finished-at="2024-03-27T11:29:29 IST" duration-ms="5175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="storageType()[pri:2, instance:TestCases.Test_Bookshelves@6fa51cd4]" started-at="2024-03-27T11:29:29 IST" name="storageType" finished-at="2024-03-27T11:29:33 IST" duration-ms="4076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- storageType -->
+        <test-method signature="setMaxPrice()[pri:3, instance:TestCases.Test_Bookshelves@6fa51cd4]" started-at="2024-03-27T11:29:33 IST" name="setMaxPrice" finished-at="2024-03-27T11:29:35 IST" duration-ms="1520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setMaxPrice -->
+        <test-method signature="printNameandPrice()[pri:4, instance:TestCases.Test_Bookshelves@6fa51cd4]" started-at="2024-03-27T11:29:35 IST" name="printNameandPrice" finished-at="2024-03-27T11:29:36 IST" duration-ms="1502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printNameandPrice -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCases.Test_Bookshelves@6fa51cd4]" started-at="2024-03-27T11:29:36 IST" name="close" finished-at="2024-03-27T11:29:38 IST" duration-ms="1559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCases.Test_Bookshelves -->
+    </test> <!-- ChromeTest -->
+    <test started-at="2024-03-27T11:31:10 IST" name="EdgeTest" finished-at="2024-03-27T11:33:08 IST" duration-ms="117616">
+      <class name="TestCases.StudyChairTestCase">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestCases.StudyChairTestCase@4bdeaabb]" started-at="2024-03-27T11:31:38 IST" name="setup" finished-at="2024-03-27T11:31:47 IST" duration-ms="9542" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="goToStudyChair()[pri:1, instance:TestCases.StudyChairTestCase@4bdeaabb]" started-at="2024-03-27T11:31:47 IST" name="goToStudyChair" finished-at="2024-03-27T11:31:51 IST" duration-ms="4105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToStudyChair -->
+        <test-method signature="showStudyChair()[pri:2, instance:TestCases.StudyChairTestCase@4bdeaabb]" started-at="2024-03-27T11:31:51 IST" name="showStudyChair" finished-at="2024-03-27T11:31:57 IST" duration-ms="5242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- showStudyChair -->
+        <test-method signature="printChairDetials()[pri:3, instance:TestCases.StudyChairTestCase@4bdeaabb]" started-at="2024-03-27T11:31:57 IST" name="printChairDetials" finished-at="2024-03-27T11:31:57 IST" duration-ms="890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printChairDetials -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCases.StudyChairTestCase@4bdeaabb]" started-at="2024-03-27T11:31:57 IST" name="close" finished-at="2024-03-27T11:32:00 IST" duration-ms="2422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCases.StudyChairTestCase -->
+      <class name="TestCases.Test_GiftCard">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestCases.Test_GiftCard@6c4906d3]" started-at="2024-03-27T11:32:00 IST" name="setup" finished-at="2024-03-27T11:32:12 IST" duration-ms="12296" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="goToGiftCard()[pri:1, instance:TestCases.Test_GiftCard@6c4906d3]" started-at="2024-03-27T11:32:12 IST" name="goToGiftCard" finished-at="2024-03-27T11:32:54 IST" duration-ms="41550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToGiftCard -->
+        <test-method signature="getgiftCard()[pri:2, instance:TestCases.Test_GiftCard@6c4906d3]" started-at="2024-03-27T11:32:54 IST" name="getgiftCard" finished-at="2024-03-27T11:32:55 IST" duration-ms="878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getgiftCard -->
+        <test-method signature="allDetailsGiftCard()[pri:3, instance:TestCases.Test_GiftCard@6c4906d3]" started-at="2024-03-27T11:32:55 IST" name="allDetailsGiftCard" finished-at="2024-03-27T11:33:06 IST" duration-ms="11341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allDetailsGiftCard -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCases.Test_GiftCard@6c4906d3]" started-at="2024-03-27T11:33:06 IST" name="close" finished-at="2024-03-27T11:33:08 IST" duration-ms="2034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCases.Test_GiftCard -->
+      <class name="TestCases.Test_Bookshelves">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestCases.Test_Bookshelves@5a59ca5e]" started-at="2024-03-27T11:31:10 IST" name="setup" finished-at="2024-03-27T11:31:24 IST" duration-ms="13953" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test1()[pri:1, instance:TestCases.Test_Bookshelves@5a59ca5e]" started-at="2024-03-27T11:31:24 IST" name="test1" finished-at="2024-03-27T11:31:27 IST" duration-ms="2499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="storageType()[pri:2, instance:TestCases.Test_Bookshelves@5a59ca5e]" started-at="2024-03-27T11:31:27 IST" name="storageType" finished-at="2024-03-27T11:31:31 IST" duration-ms="4266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- storageType -->
+        <test-method signature="setMaxPrice()[pri:3, instance:TestCases.Test_Bookshelves@5a59ca5e]" started-at="2024-03-27T11:31:31 IST" name="setMaxPrice" finished-at="2024-03-27T11:31:33 IST" duration-ms="1579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setMaxPrice -->
+        <test-method signature="printNameandPrice()[pri:4, instance:TestCases.Test_Bookshelves@5a59ca5e]" started-at="2024-03-27T11:31:33 IST" name="printNameandPrice" finished-at="2024-03-27T11:31:35 IST" duration-ms="2061" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printNameandPrice -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCases.Test_Bookshelves@5a59ca5e]" started-at="2024-03-27T11:31:35 IST" name="close" finished-at="2024-03-27T11:31:38 IST" duration-ms="2889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCases.Test_Bookshelves -->
+    </test> <!-- EdgeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
